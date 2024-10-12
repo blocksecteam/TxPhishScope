@@ -1,8 +1,10 @@
 # The Dataset of TxPhishScope
 
-This is the repository for the paper "TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum," published in ACM CCS 2023.
+This is the repository for the paper [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://assets.blocksec.com/pdf/ccs23_phishing.pdf), published in ACM CCS 2023.
 
 It contains the 26,333 phishing URLs that were detected by our system.
+
+This is a joint work of [Zhejiang University](https://www.zju.edu.cn/english/), [BlockSec](https://blocksec.com), and [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
 
 # Citation
 
